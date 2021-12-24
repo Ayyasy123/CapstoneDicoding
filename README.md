@@ -45,6 +45,6 @@ Sehingga untuk mempermudah dalam pemilihan musik yang tepat untuk didengarkan, k
 <!-- CONTACT -->
 ## Contact 
 
-Syamil Taqiyuddin Ayyasy - [@Syamilayyasy](https://twitter.com/Syamilayyasy) - syamilayyasy123@gmail.com - [github.com/Ayyasy123](https://github.com/Ayyasy123)
+Syamil Taqiyuddin Ayyasy [Linkedin](https://www.linkedin.com/in/syamil-taqiyuddin-ayyasy-7a5792149/) - [@Syamilayyasy](https://twitter.com/Syamilayyasy) - syamilayyasy123@gmail.com - [github.com/Ayyasy123](https://github.com/Ayyasy123)
 
 [Ni Made Rika Padeswari Kusuma](https://www.linkedin.com/in/ni-made-rika-padeswari-kusuma-238a71207/) - rikakusumaa23@gmail.com - [https://github.com/rikakusumaa](https://github.com/rikakusumaa)
