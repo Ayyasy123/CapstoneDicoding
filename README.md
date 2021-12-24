@@ -17,6 +17,7 @@ Sehingga untuk mempermudah dalam pemilihan musik yang tepat untuk didengarkan, k
 
 * [Google Colab (Colaboratory)](https://colab.research.google.com)
 * [Jupyter Notebook](https://jupyter.org/)
+* [Flask](https://flask.palletsprojects.com)
 * [Heroku](https://www.heroku.com)
 
 ## How To Use The App
