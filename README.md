@@ -1,11 +1,17 @@
 # Capstone Dicoding
-Pengerjaan Capstone Dicoding
+
+Team ID : CSD-071
+
+Nama Anggota :
+* M295R5289 - Syamil Taqiyuddin Ayyasy
+* M014V4052 - Ni Made Rika Padeswari Kusuma
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Pengguna sering kesulitan dalam memilih musik untuk didengarkan karena banyaknya koleksi musik pada platform digital. 
-Beberapa pengelompokan musik tertentu seperti suasana hati (mood) dapat menjadi alternatif dalam menentukan lagu untuk didengarkan.
+Banyaknya koleksi musik pada platform digital, menjadikan pengguna kesulitan dalam memilih musik untuk didengarkan. 
+Pengguna dapat memilih berdasarkan pengelompokan musik tertentu seperti suasana hati (mood). Musik dan suasana hati memiliki keterikatan, hal dibuktikan pada studi yang dipublikasikan oleh Journal of Positive Psychology dimana musik upbeat dapat meningkatkan perasaan bahagia. 
+Sehingga untuk mempermudah dalam pemilihan musik yang tepat untuk didengarkan, kami memilih permasalahan ini untuk mengembangkan sebuah model Machine Learning yaitu sistem rekomendasi musik berdasarkan mood yang dipilih pengguna.
 
 ### Built With
 
